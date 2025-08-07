@@ -35,6 +35,6 @@ To forecast power consumption using ML techniques and optimize it by integrating
 ---
 
 ### 👨‍🔬 Team
-Final Year EEE Students – IEM Kolkata  
-Mentor: [Insert Guide's Name if applicable]
+  
+
 
